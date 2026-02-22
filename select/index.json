@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "1000 Blunts",
+  "base_artist": "$uicideboy$",
+  "createdAt": "2026-02-22T08:32:35.341117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1000 Miles",
+      "artist": "Machinedrum feat. Sub Focus",
+      "has_synced": false,
+      "path": "select/01_1000_Miles_Machinedrum_feat._Sub_Focus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1000 Points Of Hate",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/02_1000_Points_Of_Hate_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1000 Points of Light",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/03_1000_Points_of_Light_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1000 Times Goodbye",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/04_1000_Times_Goodbye_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1000 Blunts",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/05_1000_Blunts_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1000 Light Years From Here",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_1000_Light_Years_From_Here_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "$1000 Wedding",
+      "artist": "Gram Parsons",
+      "has_synced": true,
+      "path": "select/07_$1000_Wedding_Gram_Parsons.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "$1000 Wedding (2002 Remaster)",
+      "artist": "Gram Parsons",
+      "has_synced": true,
+      "path": "select/08_$1000_Wedding_(2002_Remaster)_Gram_Parsons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1000 Ville Hester",
+      "artist": "Svartepetter feat. Sunny",
+      "has_synced": true,
+      "path": "select/09_1000_Ville_Hester_Svartepetter_feat._Sunny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1000 Doves",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_1000_Doves_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1000 Doves (Piano Demo)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_1000_Doves_(Piano_Demo)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1000 Cigarettes",
+      "artist": "MSTRKRFT",
+      "has_synced": false,
+      "path": "select/12_1000_Cigarettes_MSTRKRFT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1000 Cigarettes feat. Freeway",
+      "artist": "MSTRKRFT",
+      "has_synced": false,
+      "path": "select/13_1000_Cigarettes_feat._Freeway_MSTRKRFT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1000 Foot Face",
+      "artist": "Mogwai",
+      "has_synced": true,
+      "path": "select/14_1000_Foot_Face_Mogwai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "1000 Miles (feat. Sub Focus)",
+      "artist": "Machinedrum",
+      "has_synced": false,
+      "path": "select/15_1000_Miles_(feat._Sub_Focus)_Machinedrum.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "1000 Doves (Planningtorock Remix)",
+      "artist": "Lady Gaga feat. Planningtorock",
+      "has_synced": true,
+      "path": "select/16_1000_Doves_(Planningtorock_Remix)_Lady_Gaga_feat._Planningtorock.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "1000 Doves (Planningtorock Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/17_1000_Doves_(Planningtorock_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1000 Blunts",
+      "artist": "$uicideboy$",
+      "has_synced": false,
+      "path": "select/pl_01_1000_Blunts_$uicideboy$.txt"
+    }
+  ]
+}
